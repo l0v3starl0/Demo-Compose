@@ -1,4 +1,4 @@
-package com.example.demo
+package com.example.demo.ui.theme.main
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -19,7 +19,6 @@ import androidx.compose.material.icons.filled.Add
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.LocationOn
 import androidx.compose.material.icons.filled.Settings
-import androidx.compose.material3.FabPosition
 import androidx.compose.material3.FloatingActionButton
 import androidx.compose.material3.FloatingActionButtonDefaults
 import androidx.compose.material3.Icon
